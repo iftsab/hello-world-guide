@@ -1,3 +1,3 @@
 # hello-world-guide
-Git hub guide tutorial
-Version edit of the readme files
+Git hub guide tutorial<br>
+New Version edit of the readme files
